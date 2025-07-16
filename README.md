@@ -2,6 +2,10 @@
 
 This is a repository of information gathered about the WeyTec MK06 trading keyboard.
 
+Forked from [dilucide](https://github.com/dilucide/WeyMK06), with extra info added by [DeeHants](https://github.com/DeeHants).
+
+All protocols are copyright [WEYTEC](https://www.weytec.com/), or their respective owners.
+
 ## Hardware
 
 The devices' main application processor is of type Coldfire v4 MCF5474 with a total of 32MB of flash (1 IC of S29GL256N for older variants and S29GL256P for newer version of the board) and 64MB of DRAMs (2 ICs of EDD2516AETA-6B-E). The displays are driven using a MB86276 display controller/graphics accelerator to which 2 ICs of IS42S16400B-7TL 64MBit DRAMs are connected.
