@@ -9,3 +9,4 @@ All protocols are copyright [WEYTEC](https://www.weytec.com/), or their respecti
 ## Contents
 
 * [Keyboard hardware/firmware](hardware.md)
+* [Connector pinouts](connectors.md)
