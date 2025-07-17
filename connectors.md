@@ -70,11 +70,11 @@ Half-pitch centronics 36 (HPCN36) female on both devices, using a HPCN36 male ca
 * 07: 12v
 * 08: 
 * 09: 
-* 10: 
-* 11: 
+* 10: Hostport A Tx - keyboard slave/master
+* 11: Hostport A Rx - keyboard slave/master
 * 12: 
-* 13: Tx - keyboard slave/master (serial?)
-* 14: Rx - keyboard slave/master (serial?)
+* 13: Hostport B Tx - keyboard slave/master
+* 14: Hostport B Rx - keyboard slave/master
 * 15: 
 * Shell: --
 
@@ -127,7 +127,7 @@ Half-pitch centronics 36 (HPCN36) female on both devices, using a HPCN36 male ca
 * 02: 
 * 03: 
 * 04: 
-* 05: 
+* 05: Tx or Rx
 * 06: 
 * 07: 
 * 08: 
@@ -136,7 +136,7 @@ Half-pitch centronics 36 (HPCN36) female on both devices, using a HPCN36 male ca
 * 11: 
 * 12: 
 * 13: 
-* 14: 
+* 14: Tx or Rx
 * 15: 0v
 * Shell: --
 
